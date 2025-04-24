@@ -4,8 +4,8 @@
   Industry-wise trends
   Top investors and states
   Deal statuses and founder success insights
+ To analyze startup investment patterns from Shark Tank India, focusing on funding trends across industries, investor behavior, regional distribution of startups, and the overall deal success rate.
 
-# To analyze startup investment patterns from Shark Tank India, focusing on funding trends across industries, investor behavior, regional distribution of startups, and the overall deal success rate.
 # Key Goals:
 
  Identify top-funded industries and understand where investor interest is concentrated.
