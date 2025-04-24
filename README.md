@@ -1,12 +1,3 @@
-# Key Goals:
-
- Identify top-funded industries and understand where investor interest is concentrated.
- Evaluate investor participation, highlighting the most active investors and their preferred sectors.
- Analyze regional trends, showing which cities and states produce the most pitches or successful deals.
- Understand funding dynamics, including total investment, average deal size, and valuation-to-funding gaps.
- Track deal success, including the number of received and accepted offers across industries.
-
-
 # Title: Startup Investment Analysis
 # Subtitle: Shark Tank India Insights (Power BI Dashboard)
 # Details:
@@ -22,6 +13,14 @@ Tools Used: Excel, Python, Power BI
 Title: Project Objective
 
   To analyze startup investment patterns from Shark Tank India, focusing on funding trends, investor behavior, industry hotspots, and deal success rates to gain data-driven business insights.
+
+# Key Goals:
+
+ Identify top-funded industries and understand where investor interest is concentrated.
+ Evaluate investor participation, highlighting the most active investors and their preferred sectors.
+ Analyze regional trends, showing which cities and states produce the most pitches or successful deals.
+ Understand funding dynamics, including total investment, average deal size, and valuation-to-funding gaps.
+ Track deal success, including the number of received and accepted offers across industries.
 
 # Dataset Overview
 
